@@ -1,2 +1,2 @@
-# shathish-sudo.github.io
+# shathish.me
 # Refer index.html 
